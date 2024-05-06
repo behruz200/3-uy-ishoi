@@ -1,0 +1,256 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+
+body {
+    background-color: #cbc2c2;
+}
+
+.container {
+    width: 1440px;
+    margin: 0 auto;
+    background-color: #fff;
+}
+
+.ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 150px;
+}
+
+.a {
+    color: black;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.li:hover {
+    color: red;
+    cursor: pointer;
+    transition: 1s;
+}
+
+.a:active {
+    color: white;
+}
+
+.btn {
+    width: 126px;
+    height: 43px;
+    border-radius: 4px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    margin-top: 5px;
+    background-color: #FF5D24;
+    font-family: Now;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17.08px;
+    text-align: center;
+    color: white;
+
+}
+
+.h1 {
+    font-family: Nexa Bold;
+    font-size: 65px;
+    font-weight: 700;
+    line-height: 65px;
+    text-align: left;
+    margin-left: 250px;
+    margin-top: 103px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+.bi {
+    background-image: url("../img/main.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1082px;
+    height: 692px;
+    margin: 53px auto;
+}
+
+.i {
+    margin-left: 907px;
+}
+
+.div {
+    margin-top: -350px;
+    /* margin-left: 300px; */
+}
+
+.kich {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.52px;
+    text-align: left;
+
+}
+
+.kat {
+    font-family: Nexa Bold;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 50px;
+    text-align: left;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+.al {
+    width: 118px;
+    height: 39px;
+    top: 1479px;
+    left: 806px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Now;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.96px;
+    /* text-align: left; */
+    color: #FF5D24;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+
+}
+
+.y {
+    font-family: Nexa Bold;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 50px;
+    text-align: left;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+
+}
+
+.col {
+    color: #FF5D24;
+}
+
+.al {
+    border: none;
+}
+
+.l:hover {
+    background-color: #fff;
+    transition: 1s;
+    cursor: pointer;
+}
+
+.sektin {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 150px;
+    margin-top: 250px;
+    margin-left: 150px;
+}
+
+.ps {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.a {
+    font-family: Now;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.52px;
+    text-align: left;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+.l {
+    width: 118px;
+    height: 39px;
+    top: 1479px;
+    left: 806px;
+    gap: 0px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+    opacity: 0px;
+    font-family: Now;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.96px;
+    /* text-align: left;     */
+    background-color: #FF5D24;
+
+}
+
+.fd {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 80px;
+    margin-left: 200px;
+
+}
+
+.span {
+    color: #FF5D24;
+    font-family: Nexa Bold;
+    font-size: 65px;
+    font-weight: 700;
+    line-height: 65px;
+    text-align: left;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+.df {
+    display: flex;
+    align-items: center;
+    gap: 210px;
+}
+
+.pl {
+    font-family: Now;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21.6px;
+    margin-top: 100px;
+    /* text-align: left; */
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
